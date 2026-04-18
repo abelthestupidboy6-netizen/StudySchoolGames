@@ -1,0 +1,44 @@
+[
+  {
+    "id": "2048",
+    "title": "2048",
+    "description": "Join the numbers and get to the 2048 tile!",
+    "url": "https://play2048.co/",
+    "thumbnail": "https://picsum.photos/seed/2048/400/300"
+  },
+  {
+    "id": "flappy-bird",
+    "title": "Flappy Bird",
+    "description": "Navigate the bird through the pipes without hitting them.",
+    "url": "https://flappybird.io/",
+    "thumbnail": "https://picsum.photos/seed/flappy/400/300"
+  },
+  {
+    "id": "tetris",
+    "title": "Tetris",
+    "description": "The classic block-stacking puzzle game.",
+    "url": "https://tetris.com/play-tetris",
+    "thumbnail": "https://picsum.photos/seed/tetris/400/300"
+  },
+  {
+    "id": "snake",
+    "title": "Snake",
+    "description": "Eat the pellets to grow your snake, but don't hit the walls!",
+    "url": "https://www.google.com/logos/2010/pacman10-i.html",
+    "thumbnail": "https://picsum.photos/seed/snake/400/300"
+  },
+  {
+    "id": "dino-run",
+    "title": "Dino Run",
+    "description": "Help the dinosaur escape extinction in this fast-paced runner.",
+    "url": "https://chromedino.com/",
+    "thumbnail": "https://picsum.photos/seed/dino/400/300"
+  },
+  {
+    "id": "pacman",
+    "title": "Pac-Man",
+    "description": "Classic arcade action: munch the dots and avoid the ghosts.",
+    "url": "https://macek.github.io/google_pacman/",
+    "thumbnail": "https://picsum.photos/seed/pacman/400/300"
+  }
+]
